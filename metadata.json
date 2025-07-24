@@ -1,0 +1,6 @@
+{
+  "name": "Registro de Salud",
+  "description": "Una aplicación móvil segura y fácil de usar para el seguimiento de la presión arterial y el azúcar en sangre. Todos los datos se almacenan localmente en su dispositivo para su privacidad.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
